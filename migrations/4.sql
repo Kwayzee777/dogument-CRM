@@ -1,0 +1,2 @@
+
+ALTER TABLE quotes ADD COLUMN order_id INTEGER;
